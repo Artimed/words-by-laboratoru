@@ -7,6 +7,7 @@ to the entire repository or finish the public redistribution review.
 | --- | --- |
 | open-dict-data/ipa-dict | Shared English IPA; revision 972cd67dd5f96bc5660e28070cde26e3928abcd7. MIT notice: docs/licenses/ipa-dict.txt. Learner-notation adaptations are documented in docs/VOCABULARY.md. |
 | CMU Pronouncing Dictionary | Pronunciation provenance recorded by block-two source metadata, revision 74790861f652b15e4ac49015a90074ad62a27690. Preserve docs/licenses/CMUdict.txt. This notice is retained even though the visible IPA map has a separate source. |
+| Sparkle 2.10.0 | In-app update framework, MIT license. Upstream sparkle-project/Sparkle. License: docs/licenses/Sparkle.txt. |
 | CPython | Embedded CPython 3.11.17; its upstream license text is docs/licenses/python.txt and inside the runtime. |
 | python-build-standalone | Pinned Astral release 20261013, Apple Silicon install_only archive. See docs/PYTHON_RUNTIME.md for provenance and checksum. Preserve the upstream installed notices, including notices for bundled packages and libraries. Complete their component inventory before public redistribution. |
 | macOS frameworks and voices | System services used by Words; no Apple voice recordings or system framework binaries are copied into the repository. |

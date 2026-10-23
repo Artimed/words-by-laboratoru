@@ -8,10 +8,21 @@ progress across connected chat apps.
 
 **Public preview · Apple Silicon · macOS 15 or later**
 
-[Download Words 0.2.0 (11)](https://github.com/Artimed/words-by-laboratoru/releases/download/v0.2.0-11/Words-0.2.0-11.dmg)
+[Download Words 0.2.0 (12)](https://github.com/Artimed/words-by-laboratoru/releases/download/v0.2.0-12/Words-0.2.0-12.dmg)
 
 The application and installer are Developer ID signed and Apple-notarized.
 This preview is being tested on additional Macs; Intel Macs are not supported.
+
+## See Words in action
+
+[![Words animated demonstration](media/Words-demo.gif)](https://github.com/Artimed/words-by-laboratoru/releases/download/v0.2.0-12/Words-demo.mp4)
+
+[Watch or download the 30-second demo](https://github.com/Artimed/words-by-laboratoru/releases/download/v0.2.0-12/Words-demo.mp4).
+This is an animated illustration, not a screen recording. Learning time is compressed;
+languages alternate to showcase translations, not automatic language switching.
+The first release focuses on individual words; later sentence stages require learner
+choice and are not promised as automatic progression. Highlights are editorial cues,
+not proof of mastery.
 
 ## Install
 
@@ -31,12 +42,24 @@ This preview is being tested on additional Macs; Intel Macs are not supported.
 Updating: quit Words and replace the app in Applications. Do not uninstall if you
 want to retain your progress. Full removal is available in Settings → About.
 
+## Updates
+
+Starting with build 12, Words includes Sparkle app updates. Automatic checks are on
+by default and can be disabled in Settings → About. When an update is found, an
+update button appears in Words and the menu-bar ticker says “Update available”.
+Choose the update and confirm installation; learning data stays in its separate folder.
+Use **Check for Updates…** in About to check manually. The circular arrow in the
+panel only reloads local learning data.
+
+Users on build 11 need one manual update from the DMG to obtain this mechanism.
+
 ## Included
 
 - 410 English words; fresh setup starts with 10 Learning and 400 New.
 - Russian, Spanish, Simplified Chinese, Brazilian Portuguese, Japanese, German,
   Indonesian and French translations, downloaded separately without GitHub sign-in.
 - English pronunciation, speech, search, cards, light/dark appearance and color palettes.
+- Detachable movable window, remembered position and return to menu-bar mode.
 - Optional local adapters for Claude Code and Codex; either can be used independently.
 
 Repeated encounters are exposure, not proof of mastery. This preview focuses on

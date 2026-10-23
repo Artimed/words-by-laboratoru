@@ -39,6 +39,11 @@ may use an authenticated GitHub CLI fallback. No developer token is bundled.
 Download hosts receive ordinary connection/request metadata. Dictionary packs
 contain data, not code.
 
+New updater-enabled builds use Sparkle to request a public GitHub update feed and
+download signed application updates when requested. Automatic checks are enabled by default and may be disabled in About;
+system profiling is disabled. GitHub receives normal request metadata. Public build
+11 does not yet include this updater.
+
 The app does not include its own analytics or advertising SDK. Clicking website or
 project links opens those sites, which have their own privacy practices. English
 speech uses macOS system voices; voice availability and downloads are managed by
