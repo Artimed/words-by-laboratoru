@@ -18,8 +18,14 @@ This preview is being tested on additional Macs; Intel Macs are not supported.
 1. Download and open the DMG.
 2. Drag Words to Applications, then open it from Applications.
 3. Choose your translation language and optionally connect Claude Code and/or Codex.
-4. Start a new chat session. Codex may ask you to Review hooks: approve only the two
-   Words hooks, prompt_hook.py and stop_hook.py. Restart Codex if needed.
+4. Start a new chat session; quit and reopen Codex if needed. In Codex, look at the
+   **bottom of the message composer** for a **small hooks icon with a yellow dot**.
+   Click it to open the pending hook review. If a **Review hooks** notice is already
+   visible, use that instead. Expand both entries and verify that their commands run
+   Words `prompt_hook.py` and `stop_hook.py`, then allow those two hooks. Learning
+   words will not appear in Codex replies until approval. Labels follow your Codex
+   language; the pending icon can be easy to miss. Claude Code did not show this
+   extra approval in our tested setup; follow any prompts in your own version.
 5. Eject Words Installer. Words lives in the menu bar, without a Dock icon.
 
 Updating: quit Words and replace the app in Applications. Do not uninstall if you
