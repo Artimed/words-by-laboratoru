@@ -8,7 +8,7 @@ progress across connected chat apps.
 
 **Public preview · Apple Silicon · macOS 15 or later**
 
-[Download Words 0.2.0 (13)](https://github.com/Artimed/words-by-laboratoru/releases/download/v0.2.0-13/Words-0.2.0-13.dmg)
+[Download Words 0.2.0 (14)](https://github.com/Artimed/words-by-laboratoru/releases/download/v0.2.0-14/Words-0.2.0-14.dmg)
 
 The application and installer are Developer ID signed and Apple-notarized.
 This preview is being tested on additional Macs; Intel Macs are not supported.

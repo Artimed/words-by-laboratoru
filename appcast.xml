@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Words</title>
         <item>
             <title>0.2.0</title>
-            <pubDate>Fri, 23 Oct 2026 16:06:20 +0700</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.2.0 (13)</sparkle:shortVersionString>
+            <pubDate>Fri, 23 Oct 2026 17:58:36 +0700</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.2.0 (14)</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Artimed/words-by-laboratoru/releases/download/v0.2.0-13/Words-0.2.0-13.zip" length="39400786" type="application/octet-stream" sparkle:edSignature="MBcST/kh3RGdUAaJrd5vkA6E5H+F/EHqmCPYWJPVakWwVmSiZr+DHR4oKKaowbg4fd2ixrpvWAn8QmQYbnVJAA=="></enclosure>
+            <enclosure url="https://github.com/Artimed/words-by-laboratoru/releases/download/v0.2.0-14/Words-0.2.0-14.zip" length="39404910" type="application/octet-stream" sparkle:edSignature="DCbSxHjzhwJ58Cj9kr/RF0dQbgF3EWM6Z8CW2Z7hk2o7ThSiCxg0diKnbGFVDeYgfepdnlrlUnATtH2UjiccBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: yxw0lohlYMByjUn3kXDZro+C4GUx3RTN2YXAWeExo+39z32JKrEu7IsQhu06/8OgPDfIoJymqHOuDK3hJugMDw==
+edSignature: m9XStNz0rIYi4LUiZTrnB2KrQstLkL7bwvTTocJkdCXDWVR6pjC8WWDmUiDi9R/aWN6Z8Ff5diwJOoQp4WjiCA==
 length: 1137
 -->
